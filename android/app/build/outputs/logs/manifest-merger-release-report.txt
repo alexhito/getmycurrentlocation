@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
-INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
-INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
-INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
+ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
 MERGED from [:react-native-screens] C:\maps\heyven3\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] C:\maps\heyven3\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] C:\maps\heyven3\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
@@ -85,25 +85,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alexhito
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\76ec151d327593c86254dcff1fb66a03\AndroidManifest.xml:17:1-22:12
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\58c4843f389910985f5416e0ea0c8df2\AndroidManifest.xml:2:1-30:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\20412a36b61223a053cd9c950491b61c\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
-INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
-INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
 	package
 		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:2:5-26
 		INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
 		INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:1-32:12
 		INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:4:5-66
 MERGED from [:expo-file-system] C:\maps\heyven3\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
 MERGED from [:expo-file-system] C:\maps\heyven3\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
 	android:name
@@ -125,7 +125,7 @@ MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Alexhito\.gradle\c
 	android:name
 		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:6:18-72
 application
-ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:8:5-30:19
+ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:8:5-31:19
 MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\2b3997514e9d368bbaa5bc76985d8727\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\2b3997514e9d368bbaa5bc76985d8727\AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d304335468c6c5ce3f4fe012f76d6f4b\AndroidManifest.xml:22:5-20
@@ -200,12 +200,18 @@ activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:26:7-84
 	android:name
 		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:26:17-81
-meta-data#com.google.android.geo.API_KEY
-ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:27:10-29:63
-	android:value
-		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:29:6-61
+uses-library#com.google.android.maps
+ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:27:7-62
 	android:name
-		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:28:6-51
+		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:27:21-59
+meta-data#com.google.android.gms.version
+ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:28:5-30:65
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5ff0262259f9636446d4fac1583f6b6a\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5ff0262259f9636446d4fac1583f6b6a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml:29:9-54
 uses-sdk
 INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\maps\heyven3\android\app\src\main\AndroidManifest.xml
@@ -430,12 +436,6 @@ ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Alexhito\
 		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\017575b4b7cb29fd086100eac810cce9\AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\017575b4b7cb29fd086100eac810cce9\AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5ff0262259f9636446d4fac1583f6b6a\AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5ff0262259f9636446d4fac1583f6b6a\AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5ff0262259f9636446d4fac1583f6b6a\AndroidManifest.xml:24:13-58
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Alexhito\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\58c4843f389910985f5416e0ea0c8df2\AndroidManifest.xml:13:5-79
 	android:name
